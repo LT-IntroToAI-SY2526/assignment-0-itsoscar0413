@@ -34,7 +34,7 @@ https://github.com/itsoscar0413/itsoscar0413
 
 **What aspect of AI are you most excited to learn about this year? Explain why.**
 
-I'm most excited to learn about how to create your own AI model/api. it would be really cool if I learned how to create my own chatting bot, the only difference is instead of using ChatGPT or other AI softwares, I could edit and modify it to my liking and personal use so I have it on standby
+I'm most excited to learn about how to create your own AI model/api. it would be really cool if I learned how to create my own chatting bot, the only difference is instead of using ChatGPT or other AI softwares, I could edit and modify it to my liking and personal use so I have it on standby.
 
 ---
 
