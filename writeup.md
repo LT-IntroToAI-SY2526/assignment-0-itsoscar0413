@@ -26,7 +26,7 @@ A repository is github's version of having a folder to store all of your stuff. 
 
 **Link to your GitHub profile repository:** 
 
-[Paste your profile repository link here - it should look something like: https://github.com/yourusername/yourusername]
+https://github.com/itsoscar0413/itsoscar0413
 
 ---
 
@@ -34,7 +34,7 @@ A repository is github's version of having a folder to store all of your stuff. 
 
 **What aspect of AI are you most excited to learn about this year? Explain why.**
 
-[Your answer here - feel free to write a paragraph or more!]
+I'm most excited to learn about how to create your own AI model/api. it would be really cool if I learned how to create my own chatting bot, the only difference is instead of using ChatGPT or other AI softwares, I could edit and modify it to my liking and personal use so I have it on standby
 
 ---
 
